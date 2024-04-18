@@ -1,0 +1,8 @@
+"name","type","length","leftDigits","rightDigits"
+"MVMNT_CD","INTEGER","1","1","0"
+"MVMNT_LONG_DESC","STRING","19","0","0"
+"MVMNT_MED_DESC","STRING","12","0","0"
+"MVMNT_SHORT_DESC","STRING","6","0","0"
+"MVMNT_TERMNT_DT","STRING","0","0","0"
+"LAST_UD_DT","STRING","19","0","0"
+"LAST_UD_USER_ID","STRING","8","0","0"

@@ -1,0 +1,5 @@
+"name","type","length","leftDigits","rightDigits"
+"IMPCT_LOC_CD","INTEGER","2","2","0"
+"IMPCT_LOC_TERMNT_DT","STRING","0","0","0"
+"LAST_UD_DT","STRING","19","0","0"
+"LAST_UD_USER_ID","STRING","8","0","0"

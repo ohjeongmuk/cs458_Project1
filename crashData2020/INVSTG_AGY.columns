@@ -1,0 +1,7 @@
+"name","type","length","leftDigits","rightDigits"
+"INVSTG_AGY_CD","INTEGER","1","1","0"
+"INVSTG_AGY_LONG_DESC","STRING","48","0","0"
+"INVSTG_AGY_SHORT_DESC","STRING","6","0","0"
+"INVSTG_AGY_TERMNT_DT","STRING","0","0","0"
+"LAST_UD_DT","STRING","19","0","0"
+"LAST_UD_USER_ID","STRING","8","0","0"

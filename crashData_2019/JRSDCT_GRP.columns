@@ -1,0 +1,8 @@
+"name","type","length","leftDigits","rightDigits"
+"JRSDCT_GRP_CD","STRING","2","0","0"
+"JRSDCT_GRP_LONG_DESC","STRING","42","0","0"
+"JRSDCT_GRP_MED_DESC","STRING","15","0","0"
+"JRSDCT_GRP_SHORT_DESC","STRING","3","0","0"
+"JRSDCT_GRP_TERMNT_DT","STRING","0","0","0"
+"LAST_UD_DT","STRING","19","0","0"
+"LAST_UD_USER_ID","STRING","8","0","0"

@@ -1,0 +1,7 @@
+"name","type","length","leftDigits","rightDigits"
+"MEDN_TYP_CD","INTEGER","1","1","0"
+"MEDN_TYP_LONG_DESC","STRING","28","0","0"
+"MEDN_TYP_SHORT_DESC","STRING","5","0","0"
+"MEDN_TYP_TERMNT_DT","STRING","0","0","0"
+"LAST_UD_DT","STRING","19","0","0"
+"LAST_UD_USER_ID","STRING","8","0","0"

@@ -1,0 +1,8 @@
+"name","type","length","leftDigits","rightDigits"
+"CRASH_HR_NO","INTEGER","2","2","0"
+"CRASH_HR_LONG_DESC","STRING","31","0","0"
+"CRASH_HR_MED_DESC","STRING","14","0","0"
+"CRASH_HR_SHORT_DESC","STRING","3","0","0"
+"CRASH_HR_TERMNT_DT","STRING","0","0","0"
+"LAST_UD_DT","STRING","19","0","0"
+"LAST_UD_USER_ID","STRING","8","0","0"

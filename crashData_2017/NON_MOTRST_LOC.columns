@@ -1,0 +1,8 @@
+"name","type","length","leftDigits","rightDigits"
+"NON_MOTRST_LOC_CD","INTEGER","2","2","0"
+"NON_MOTRST_LOC_LONG_DESC","STRING","50","0","0"
+"NON_MOTRST_LOC_MED_DESC","STRING","17","0","0"
+"NON_MOTRST_LOC_SHORT_DESC","STRING","9","0","0"
+"NON_MOTRST_LOC_TERMNT_DT","STRING","19","0","0"
+"LAST_UD_DT","STRING","19","0","0"
+"LAST_UD_USER_ID","STRING","8","0","0"

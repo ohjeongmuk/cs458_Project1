@@ -1,0 +1,8 @@
+"name","type","length","leftDigits","rightDigits"
+"MLGE_TYP_CD","STRING","1","1","0"
+"MLGE_TYP_LONG_DESC","STRING","15","0","0"
+"MLGE_TYP_MED_DESC","STRING","7","0","0"
+"MLGE_TYP_TERMNT_DT","STRING","19","0","0"
+"LAST_UD_DT","STRING","19","0","0"
+"LAST_UD_USER_ID","STRING","8","0","0"
+"MLGE_TYP_SHORT_DESC","STRING","1","0","0"

@@ -3,7 +3,7 @@ from collections import Counter
 import matplotlib.pyplot as plt
 
 # 각 년도의 CRASH.csv 파일 경로
-file_paths = ['./crashData_2019/CRASH.csv', './crashData_2020/CRASH.csv', './crashData_2021/CRASH.csv', './crashData_2022/CRASH.csv']
+file_paths = ['./crashData_2015/CRASH.csv', './crashData_2016/CRASH.csv', './crashData_2017/CRASH.csv', './crashData_2018/CRASH.csv', './crashData_2019/CRASH.csv', './crashData_2020/CRASH.csv', './crashData_2021/CRASH.csv', './crashData_2022/CRASH.csv']
 # 각 년도의 CAUSE.csv 파일 경로
 cause_file_paths = ['./crashData_2019/CAUSE.csv', './crashData_2020/CAUSE.csv', './crashData_2021/CAUSE.csv', './crashData_2022/CAUSE.csv']
 # 원인 코드와 원인 설명을 연결하는 딕셔너리 생성
@@ -29,13 +29,17 @@ for i, crash_file in enumerate(file_paths):
         
         # CAUSE_MED_DESC 개수를 세기 위한 Counter 객체 생성
         cause_counter = Counter()
-        
-        if i == 1: year = 2019
-        elif i ==2: year = 2020
-        elif i == 3: year = 2021
+
+        if i == 0: year = 2015
+        elif i == 1: year = 2016
+        elif i == 2: year = 2017
+        elif i == 3: year = 2018
+        elif i == 4: year = 2019
+        elif i == 5: year = 2020
+        elif i == 6: year = 2021
         else: year = 2022
         
-        failed_yield_row = 0 
+        failed_yield_row = 0
         too_fast_for_cond = 0
         fail_avoid_veh_ahead = 0
         follow_too_close = 0
@@ -92,4 +96,5 @@ plt.legend()
 plt.xticks(years)
 
 # 그래프 출력
-plt.show()
+#plt.show()
+plt.savefig('plot.png')

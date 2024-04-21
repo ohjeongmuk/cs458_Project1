@@ -1,0 +1,6 @@
+"name","type","length","leftDigits","rightDigits"
+"SEX_CD","INTEGER","1","1","0"
+"SEX_DESC","STRING","10","0","0"
+"SEX_TERMNT_DT","STRING","0","0","0"
+"LAST_UD_DT","STRING","19","0","0"
+"LAST_UD_USER_ID","STRING","8","0","0"

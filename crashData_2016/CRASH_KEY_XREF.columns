@@ -1,0 +1,5 @@
+"name","type","length","leftDigits","rightDigits"
+"CRASH_KEY_XREF_ID","INTEGER","10","10","0"
+"CRASH_ID","INTEGER","7","7","0"
+"VHCL_ID","STRING","7","7","0"
+"PARTIC_ID","STRING","7","7","0"

@@ -1,0 +1,8 @@
+"DRVR_LIC_STAT_CD","DRVR_LIC_STAT_LONG_DESC","DRVR_LIC_STAT_SHORT_DESC","DRVR_LIC_STAT_TERMNT_DT","LAST_UD_DT","LAST_UD_USER_ID"
+"0","Not Licensed (had never been licensed)","NONE ","","2002-03-20 00:00:00","CONVERT "
+"1","Valid Oregon license","OR-Y ","","2002-03-20 00:00:00","CONVERT "
+"2","Valid license, other state or country","OTH-Y","","2002-03-20 00:00:00","CONVERT "
+"3","Suspended/Revoked","SUSP ","","2002-03-20 00:00:00","CONVERT "
+"4","Expired","EXP  ","","2002-03-20 00:00:00","CONVERT "
+"8","Other non-valid license","N-VAL","","2002-03-20 00:00:00","CONVERT "
+"9","Unknown if driver was licensed at time of crash","UNK  ","","2002-03-20 00:00:00","CONVERT "

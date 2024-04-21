@@ -1,0 +1,8 @@
+"name","type","length","leftDigits","rightDigits"
+"RTE_TYP_CD","STRING","2","0","0"
+"RTE_ID","STRING","5","0","0"
+"RTE_NM","STRING","10","0","0"
+"RTE_HIER_NO","INTEGER","3","3","0"
+"RTE_TERMNT_DT","STRING","19","0","0"
+"LAST_UD_DT","STRING","19","0","0"
+"LAST_UD_USER_ID","STRING","8","0","0"

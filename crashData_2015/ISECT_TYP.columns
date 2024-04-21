@@ -1,0 +1,6 @@
+"name","type","length","leftDigits","rightDigits"
+"ISECT_TYP_CD","INTEGER","1","1","0"
+"ISECT_TYP_SHORT_DESC","STRING","7","0","0"
+"ISECT_TYP_TERMNT_DT","STRING","0","0","0"
+"LAST_UD_DT","STRING","19","0","0"
+"LAST_UD_USER_ID","STRING","8","0","0"

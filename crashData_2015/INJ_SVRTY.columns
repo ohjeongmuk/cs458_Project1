@@ -1,0 +1,8 @@
+"name","type","length","leftDigits","rightDigits"
+"INJ_SVRTY_CD","INTEGER","1","1","0"
+"INJ_SVRTY_LONG_DESC","STRING","31","0","0"
+"INJ_SVRTY_MED_DESC","STRING","7","0","0"
+"INJ_SVRTY_SHORT_DESC","STRING","4","0","0"
+"INJ_SVRTY_TERMNT_DT","STRING","19","0","0"
+"LAST_UD_DT","STRING","19","0","0"
+"LAST_UD_USER_ID","STRING","8","0","0"

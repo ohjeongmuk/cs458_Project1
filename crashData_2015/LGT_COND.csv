@@ -1,0 +1,7 @@
+"LGT_COND_CD","LGT_COND_LONG_DESC","LGT_COND_MED_DESC","LGT_COND_SHORT_DESC","LGT_COND_TERMNT_DT","LAST_UD_DT","LAST_UD_USER_ID"
+"0","Unknown","UNK","UNK ","","2002-03-20 00:00:00","CONVERT "
+"1","Daylight","DAY","DAY ","","2002-03-20 00:00:00","CONVERT "
+"2","Darkness - with street lights","DKLIT","DLIT","","2002-03-20 00:00:00","CONVERT "
+"3","Darkness - no street lights","DARK","DARK","","2002-03-20 00:00:00","CONVERT "
+"4","Dawn (Twilight)","DAWN","DAWN","","2002-03-20 00:00:00","CONVERT "
+"5","Dusk (Twilight)","DUSK","DUSK","","2002-03-20 00:00:00","CONVERT "

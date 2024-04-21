@@ -1,0 +1,8 @@
+"VHCL_OWNSHP_CD","VHCL_OWNSHP_LONG_DESC","VHCL_OWNSHP_SHORT_DESC","VHCL_OWNSHP_TERMNT_DT","LAST_UD_DT","LAST_UD_USER_ID"
+"0","Not collected for PDO Crashes","N/A  ","","2017-09-08 15:51:49","Hwye85p "
+"1","Private","PRVTE","","2002-03-20 00:00:00","CONVERT "
+"2","Government","GOVMT","","2002-03-20 00:00:00","CONVERT "
+"3","Public","PUBLC","","2002-03-20 00:00:00","CONVERT "
+"4","Rental vehicle","RENTL","","2002-03-20 00:00:00","CONVERT "
+"5","Stolen vehicle","STOLN","","2002-03-20 00:00:00","CONVERT "
+"9","Unknown ownership","UNKN ","","2002-03-20 00:00:00","CONVERT "

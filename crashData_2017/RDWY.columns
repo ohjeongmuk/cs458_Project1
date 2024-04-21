@@ -1,0 +1,6 @@
+"name","type","length","leftDigits","rightDigits"
+"RDWY_NO","INTEGER","1","1","0"
+"RDWY_DESC","STRING","50","0","0"
+"RDWY_TERMNT_DT","STRING","19","0","0"
+"LAST_UD_DT","STRING","19","0","0"
+"LAST_UD_USER_ID","STRING","8","0","0"

@@ -1,0 +1,7 @@
+"name","type","length","leftDigits","rightDigits"
+"URB_AREA_CD","INTEGER","2","2","0"
+"URB_AREA_LONG_NM","STRING","24","0","0"
+"URB_AREA_SHORT_NM","STRING","15","0","0"
+"URB_AREA_TERMNT_DT","STRING","19","0","0"
+"LAST_UD_DT","STRING","19","0","0"
+"LAST_UD_USER_ID","STRING","8","0","0"

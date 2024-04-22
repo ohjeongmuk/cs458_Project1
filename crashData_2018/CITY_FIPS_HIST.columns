@@ -1,0 +1,8 @@
+"name","type","length","leftDigits","rightDigits"
+"CITY_SECT_ID","INTEGER","3","3","0"
+"CITY_FIPS_HIST_START_YR_NO","INTEGER","4","4","0"
+"CITY_FIPS_HIST_TERMNT_YR_NO","STRING","4","0","0"
+"FIPS_CITY_ID","INTEGER","5","5","0"
+"CITY_SECT_URB_RURAL_AREA_IND","STRING","1","0","0"
+"LAST_UD_DT","STRING","19","0","0"
+"LAST_UD_USER_ID","STRING","8","0","0"

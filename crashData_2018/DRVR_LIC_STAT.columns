@@ -1,0 +1,7 @@
+"name","type","length","leftDigits","rightDigits"
+"DRVR_LIC_STAT_CD","INTEGER","1","1","0"
+"DRVR_LIC_STAT_LONG_DESC","STRING","47","0","0"
+"DRVR_LIC_STAT_SHORT_DESC","STRING","5","0","0"
+"DRVR_LIC_STAT_TERMNT_DT","STRING","0","0","0"
+"LAST_UD_DT","STRING","19","0","0"
+"LAST_UD_USER_ID","STRING","8","0","0"

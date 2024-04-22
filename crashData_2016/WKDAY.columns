@@ -1,0 +1,3 @@
+"name","type","length","leftDigits","rightDigits"
+"WKDAY_CD","INTEGER","1","1","0"
+"WKDAY_SHORT_DESC","STRING","3","0","0"

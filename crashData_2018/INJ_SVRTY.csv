@@ -1,0 +1,8 @@
+"INJ_SVRTY_CD","INJ_SVRTY_LONG_DESC","INJ_SVRTY_MED_DESC","INJ_SVRTY_SHORT_DESC","INJ_SVRTY_TERMNT_DT","LAST_UD_DT","LAST_UD_USER_ID"
+"1","Fatal Injury (K)","KILLED","KILL","","2019-06-25 11:36:38","hwye85p "
+"2","Suspected Serious Injury (A)","INJ A","INJA","","2019-06-25 11:36:38","hwye85p "
+"3","Suspected Minor Injury (B)","INJ B","INJB","","2019-06-25 11:36:38","hwye85p "
+"4","Possible Injury (C)","INJ C","INJC","","2019-06-25 11:36:38","hwye85p "
+"5","Died prior to crash","D PRIOR","PRI ","","2002-03-20 00:00:00","CONVERT "
+"7","No Injury - 0 to 4 years of age","NO <5","NO<5","2018-01-01 00:00:00","2019-10-15 09:31:06","sa845   "
+"9","No Apparent Injury (O)","NO INJ","NONE","","2019-06-25 11:36:38","hwye85p "

@@ -1,0 +1,4 @@
+"MEDN_TYP_CD","MEDN_TYP_LONG_DESC","MEDN_TYP_SHORT_DESC","MEDN_TYP_TERMNT_DT","LAST_UD_DT","LAST_UD_USER_ID"
+"0","No median","NONE ","","2002-03-20 00:00:00","CONVERT "
+"1","Solid Median Barrier","RSDMD","","2002-03-20 00:00:00","CONVERT "
+"2","Earth, grass or paved median","DIVMD","","2002-03-20 00:00:00","CONVERT "

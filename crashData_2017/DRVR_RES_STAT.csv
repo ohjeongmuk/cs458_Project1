@@ -1,0 +1,6 @@
+"DRVR_RES_STAT_CD","DRVR_RES_LONG_DESC","DRVR_RES_SHORT_DESC","DRVR_RES_TERMNT_DT","LAST_UD_DT","LAST_UD_USER_ID"
+"1","Oregon resident within 25 mile of home ","OR<25","","2002-03-20 00:00:00","CONVERT "
+"2","Oregon resident 25 or more miles from home","OR>25","","2002-03-20 00:00:00","CONVERT "
+"3","Oregon resident - unknown distance from home","OR-? ","","2002-03-20 00:00:00","CONVERT "
+"4","Non-resident","N-RES","","2002-03-20 00:00:00","CONVERT "
+"9","Unknown if Oregon resident","UNK  ","","2002-03-20 00:00:00","CONVERT "

@@ -1,0 +1,8 @@
+"name","type","length","leftDigits","rightDigits"
+"HWY_COMPNT_CD","INTEGER","1","1","0"
+"HWY_COMPNT_LONG_DESC","STRING","22","0","0"
+"HWY_COMPNT_MED_DESC","STRING","12","0","0"
+"HWY_COMPNT_TERMNT_DT","STRING","19","0","0"
+"LAST_UD_DT","STRING","19","0","0"
+"LAST_UD_USER_ID","STRING","8","0","0"
+"HWY_COMPNT_SHORT_DESC","STRING","2","0","0"

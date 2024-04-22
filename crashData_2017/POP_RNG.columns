@@ -1,0 +1,6 @@
+"name","type","length","leftDigits","rightDigits"
+"POP_RNG_CD","INTEGER","1","1","0"
+"POP_RNG_MED_DESC","STRING","18","0","0"
+"POP_RNG_TERMNT_DT","STRING","0","0","0"
+"LAST_UD_DT","STRING","19","0","0"
+"LAST_UD_USER_ID","STRING","8","0","0"

@@ -1,0 +1,7 @@
+"name","type","length","leftDigits","rightDigits"
+"RD_SURF_COND_CD","INTEGER","1","1","0"
+"RD_SURF_MED_DESC","STRING","7","0","0"
+"RD_SURF_SHORT_DESC","STRING","4","0","0"
+"RD_SURF_TERMNT_DT","STRING","0","0","0"
+"LAST_UD_DT","STRING","19","0","0"
+"LAST_UD_USER_ID","STRING","8","0","0"

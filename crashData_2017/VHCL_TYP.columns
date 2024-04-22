@@ -1,0 +1,7 @@
+"name","type","length","leftDigits","rightDigits"
+"VHCL_TYP_CD","INTEGER","2","2","0"
+"VHCL_TYP_LONG_DESC","STRING","49","0","0"
+"VHCL_TYP_SHORT_DESC","STRING","10","0","0"
+"VHCL_TYP_TERMNT_DT","STRING","19","0","0"
+"LAST_UD_DT","STRING","19","0","0"
+"LAST_UD_USER_ID","STRING","8","0","0"

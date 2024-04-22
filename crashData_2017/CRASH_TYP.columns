@@ -1,0 +1,8 @@
+"name","type","length","leftDigits","rightDigits"
+"CRASH_TYP_CD","STRING","1","0","0"
+"CRASH_TYP_LONG_DESC","STRING","50","0","0"
+"CRASH_TYP_MED_DESC","STRING","20","0","0"
+"CRASH_TYP_SHORT_DESC","STRING","10","0","0"
+"CRASH_TYP_TERMNT_DT","STRING","0","0","0"
+"LAST_UD_DT","STRING","19","0","0"
+"LAST_UD_USER_ID","STRING","8","0","0"

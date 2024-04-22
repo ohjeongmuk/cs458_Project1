@@ -1,0 +1,8 @@
+"name","type","length","leftDigits","rightDigits"
+"LGT_COND_CD","INTEGER","1","1","0"
+"LGT_COND_LONG_DESC","STRING","29","0","0"
+"LGT_COND_MED_DESC","STRING","5","0","0"
+"LGT_COND_SHORT_DESC","STRING","4","0","0"
+"LGT_COND_TERMNT_DT","STRING","0","0","0"
+"LAST_UD_DT","STRING","19","0","0"
+"LAST_UD_USER_ID","STRING","8","0","0"

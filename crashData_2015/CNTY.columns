@@ -1,0 +1,7 @@
+"name","type","length","leftDigits","rightDigits"
+"CNTY_ID","INTEGER","2","2","0"
+"CNTY_NM","STRING","10","0","0"
+"FIPS_CNTY_ID","INTEGER","3","3","0"
+"CNTY_TERMNT_DT","STRING","0","0","0"
+"LAST_UD_DT","STRING","19","0","0"
+"LAST_UD_USER_ID","STRING","8","0","0"

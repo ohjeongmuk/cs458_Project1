@@ -1,0 +1,3 @@
+"name","type","length","leftDigits","rightDigits"
+"LookupTableName","STRING","18","0","0"
+"LookupSql","STRING","204","0","0"

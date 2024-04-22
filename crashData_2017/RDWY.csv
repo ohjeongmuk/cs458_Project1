@@ -1,0 +1,6 @@
+"RDWY_NO","RDWY_DESC","RDWY_TERMNT_DT","LAST_UD_DT","LAST_UD_USER_ID"
+"1","Add-mileage on divided highway or an undivided hwy","","2002-03-20 00:00:00","CONVERT "
+"2","Non-add alignment on divided highway or couplet","","2002-03-20 00:00:00","CONVERT "
+"3","Add-mileage alignment of a split roadway ","2009-12-31 00:00:00","2013-03-01 14:00:36","Hwye85p "
+"4","Non-add mileage alignment of a split roadway ","2009-12-31 00:00:00","2013-03-01 14:00:36","Hwye85p "
+"5","Alignment not yet built or non-state rdwy ","","2002-03-20 00:00:00","CONVERT "
